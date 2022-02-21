@@ -13,8 +13,36 @@
        background-color: #273036;
    }
    
+/********** info section  */
 
+.header-waper{
+  position:relative ;
+  background: url(1a50af46f54b1783e4d46b14b0e131c8.gif) no-repeat;
+  background-size: cover ;
+  background-position: center;
+  height: 90vh;
 
- 
-   
+}
+.intro{
+  display: flex;
+  position:absolute;
+  top: 0;
+  left: 0;
+  right:0;
+  bottom: 0;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.intro h1{
+  color: white;
+  font-weight: bold;
+}
 
+/* typed text */
+
+.typed-text{
+  font-size: 2rem;
+  color: white;
+}
