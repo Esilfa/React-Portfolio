@@ -15,9 +15,10 @@
    
 /********** info section  */
 
+
 .header-waper{
   position:relative ;
-  background: url(1a50af46f54b1783e4d46b14b0e131c8.gif) no-repeat;
+  background: url(ezgif.com-video-to-gif.gif) no-repeat;
   background-size: cover ;
   background-position: center;
   height: 90vh;
@@ -38,6 +39,7 @@
 .intro h1{
   color: white;
   font-weight: bold;
+  font-size: 3rem;
 }
 
 /* typed text */
@@ -45,4 +47,21 @@
 .typed-text{
   font-size: 2rem;
   color: white;
+ 
+}
+
+/* ****** into button */
+
+.btm-main-offer{
+border: 1px solid rgb(43, 115, 156) ;
+font-weight: bold ;
+border-radius: 0;
+padding: 0.625rem 0.75rem 0.75rem 0.75rem ;
+color: black;
+background: white;
+border-radius: 15px;
+margin: 2rem;
+opacity: 50px;
+
+
 }
