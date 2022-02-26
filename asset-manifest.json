@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.7170733b.css",
+    "main.js": "/react-portfolio/static/js/main.427603ca.js",
+    "static/media/ezgif.com-video-to-gif.gif": "/react-portfolio/static/media/ezgif.com-video-to-gif.5d0ace8a4ffd5c168f3a.gif",
+    "static/media/Project-5.png": "/react-portfolio/static/media/Project-5.50e3284fbebf0dc1fba3.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.7170733b.css.map": "/react-portfolio/static/css/main.7170733b.css.map",
+    "main.427603ca.js.map": "/react-portfolio/static/js/main.427603ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7170733b.css",
+    "static/js/main.427603ca.js"
+  ]
+}
