@@ -6,12 +6,17 @@ export default function intro() {
     return (
         <div className="header-waper">
 
-            <div className='intro'>
+            <div className='intro' id="intro">
 
+                <div className="imgcontainer">
+               {/* <img src={require('../../assets/profile-img.png')} alt="" />  */}
+                   
+                </div>
+               
                 <h1
                     typeSpeed={50}
                     backSpeed={40}
-                    loop>Hello, I'm Estefany! </h1>
+                    loop>Hello, I'm Steph! </h1>
                 <Typed
                     className="typed-text"
                     strings={["Front End Web Developer "]}
@@ -20,10 +25,7 @@ export default function intro() {
                     loop
 
                 />
-                <a href="#contactsID" className='btm-main-offer'> Contact me!</a>
-
-
-
+                <a href="#contact" className='btm-main-offer'> Contact me!</a>
 
             </div>
 
